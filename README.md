@@ -1,2 +1,4 @@
 # hello-world
-Just Hello World
+Hello There
+
+This is my first Repository.  It just is used to exercise.
